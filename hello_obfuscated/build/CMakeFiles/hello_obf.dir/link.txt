@@ -1,0 +1,1 @@
+clang  -O2 -mllvm -fla -mllvm -bcf -mllvm -sub -mllvm -gle -mllvm -mba -mllvm -mba-prob=100   CMakeFiles/hello_obf.dir/hello.c.o  -o hello_obf 
